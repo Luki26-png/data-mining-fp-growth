@@ -1,0 +1,432 @@
+id_transaksi,nama_barang
+1,kalung
+1,liontin
+2,gelang kaki
+3,kalung+liontin
+4,cincin permata
+4,anting
+5,kalung
+5,kalung+liontin
+5,cincin permata
+5,cincin permata
+6,cincin polos
+6,anting
+7,gelang tangan
+8,gelang tangan
+8,cincin polos
+9,cincin permata
+10,kalung
+10,liontin
+11,cincin permata
+12,kalung
+12,liontin
+13,anting
+14,cincin permata
+15,cincin polos
+16,kalung
+16,cincin permata
+17,kalung
+18,gelang tangan
+19,gelang tangan
+20,anting
+21,gelang tangan
+21,logam mulia
+22,gelang tangan
+23,kalung
+24,kalung+liontin
+25,cincin polos
+26,gelang tangan
+27,kalung
+28,gelang tangan
+29,gelang tangan
+29,cincin permata
+30,gelang tangan
+31,gelang tangan
+32,kalung
+33,gelang tangan
+33,cincin permata
+34,cincin polos
+35,cincin permata
+36,kalung
+36,liontin
+37,kalung
+38,cincin polos
+39,gelang tangan
+39,cincin polos
+40,cincin permata
+41,cincin polos
+42,anting
+43,cincin polos
+44,cincin polos
+45,kalung
+45,liontin
+45,cincin polos
+46,cincin permata
+47,cincin polos
+48,kalung
+48,cincin polos
+49,gelang tangan
+50,cincin permata
+51,cincin polos
+52,gelang tangan
+53,cincin polos
+53,gelang tangan
+54,anting
+55,kalung
+56,cincin permata
+57,gelang tangan
+58,gelang tangan
+59,gelang tangan
+59,cincin permata
+59,anting
+60,cincin polos
+61,cincin permata
+62,gelang tangan
+62,cincin permata
+63,gelang tangan
+63,anting
+64,gelang tangan
+65,logam mulia
+66,gelang tangan
+67,cincin permata
+68,anting
+69,gelang tangan
+70,cincin permata
+71,cincin permata
+72,cincin polos
+72,cincin polos
+72,cincin permata
+73,kalung
+74,cincin polos
+75,cincin permata
+76,cincin permata
+77,cincin permata
+78,logam mulia
+79,cincin polos
+80,cincin polos
+81,cincin polos
+82,cincin polos
+83,cincin permata
+84,gelang tangan
+84,kalung
+85,cincin permata
+86,cincin permata
+87,gelang tangan
+88,cincin permata
+89,cincin polos
+90,kalung
+91,cincin polos
+91,gelang tangan
+92,cincin polos
+93,cincin polos
+93,cincin permata
+94,anting
+95,cincin polos
+96,gelang tangan
+96,cincin permata
+97,gelang tangan
+98,cincin permata
+99,logam mulia
+100,gelang tangan
+101,gelang tangan
+101,cincin permata
+102,cincin permata
+103,cincin permata
+104,kalung
+104,liontin
+104,anting
+105,gelang tangan
+106,cincin permata
+107,cincin permata
+108,logam mulia
+109,gelang tangan
+110,anting
+111,kalung
+111,liontin
+112,kalung
+112,liontin
+113,kalung
+113,liontin
+113,gelang tangan
+114,cincin permata
+115,cincin permata
+116,cincin polos
+117,cincin polos
+117,cincin permata
+118,cincin permata
+119,kalung+liontin
+120,gelang tangan
+120,cincin permata
+121,kalung
+122,kalung+liontin
+123,gelang tangan
+124,cincin polos
+125,gelang tangan
+125,cincin permata
+126,gelang tangan
+127,kalung
+127,gelang tangan
+127,anting
+127,cincin permata
+128,gelang tangan
+129,gelang tangan
+130,cincin polos
+130,cincin permata
+131,cincin polos
+132,kalung
+133,cincin permata
+134,gelang tangan
+134,cincin polos
+135,anting
+136,cincin permata
+137,gelang tangan
+138,cincin polos
+139,cincin permata
+140,kalung
+140,liontin
+141,gelang tangan
+142,gelang tangan
+142,kalung
+143,gelang tangan
+144,logam mulia
+145,gelang tangan
+145,cincin polos
+146,cincin permata
+147,liontin
+147,cincin polos
+148,kalung
+149,cincin permata
+150,cincin polos
+151,gelang tangan
+152,anting
+152,cincin polos
+153,cincin polos
+154,kalung
+155,anting
+156,logam mulia
+157,cincin polos
+158,anting
+159,gelang tangan
+159,cincin polos
+160,gelang tangan
+161,anting
+162,cincin polos
+163,cincin polos
+164,gelang kaki
+165,liontin
+166,kalung
+167,anting
+168,cincin permata
+169,cincin permata
+170,gelang tangan
+171,kalung
+172,anting
+173,gelang tangan
+174,gelang tangan
+174,anting
+175,logam mulia
+176,gelang tangan
+176,cincin permata
+177,cincin polos
+178,cincin polos
+178,cincin permata
+179,anting
+180,cincin permata
+180,cincin polos
+181,cincin polos
+182,kalung
+183,anting
+184,cincin permata
+184,anting
+185,kalung
+186,cincin permata
+187,cincin polos
+187,gelang tangan
+188,liontin
+189,cincin permata
+190,cincin polos
+191,cincin permata
+191,gelang tangan
+192,anting
+193,cincin polos
+194,kalung
+194,gelang tangan
+195,cincin permata
+196,anting
+197,kalung
+197,liontin
+198,cincin permata
+198,gelang tangan
+199,cincin permata
+200,anting
+201,cincin permata
+202,kalung+liontin
+203,kalung
+203,anting
+204,cincin polos
+204,kalung
+205,kalung
+205,gelang tangan
+205,cincin polos
+206,gelang tangan
+207,kalung
+207,cincin polos
+208,gelang tangan
+208,cincin permata
+209,kalung
+209,cincin polos
+210,gelang tangan
+211,gelang tangan
+211,anting
+212,anting
+213,gelang tangan
+214,gelang tangan
+214,anting
+214,cincin permata
+215,cincin polos
+216,anting
+217,cincin permata
+218,gelang tangan
+219,anting
+220,gelang tangan
+221,anting
+222,gelang tangan
+223,gelang tangan
+224,anting
+224,kalung
+224,liontin
+225,gelang tangan
+226,cincin permata
+227,gelang tangan
+227,cincin permata
+228,gelang tangan
+228,cincin permata
+229,kalung
+229,anting
+229,gelang tangan
+229,cincin permata
+230,gelang tangan
+230,kalung
+230,cincin permata
+231,kalung
+232,cincin polos
+233,gelang tangan
+234,kalung
+234,liontin
+234,gelang tangan
+234,anting
+235,gelang tangan
+236,gelang tangan
+237,anting
+237,cincin permata
+238,kalung+liontin
+239,cincin permata
+240,logam mulia
+241,logam mulia
+242,kalung
+242,gelang tangan
+243,kalung+liontin
+244,gelang tangan
+244,cincin polos
+245,cincin permata
+246,gelang tangan
+247,gelang tangan
+247,cincin permata
+248,gelang tangan
+249,cincin polos
+250,cincin polos
+250,cincin permata
+251,cincin permata
+251,gelang tangan
+252,cincin polos
+253,cincin permata
+253,gelang tangan
+254,gelang tangan
+255,gelang tangan
+256,cincin polos
+257,cincin polos
+258,cincin polos
+259,cincin permata
+259,gelang tangan
+260,logam mulia
+261,cincin permata
+261,anting
+262,gelang tangan
+262,cincin permata
+263,anting
+264,anting
+265,gelang tangan
+265,cincin polos
+266,cincin polos
+267,anting
+268,anting
+268,cincin permata
+269,cincin permata
+269,cincin polos
+270,anting
+271,cincin permata
+272,cincin permata
+273,kalung
+273,liontin
+274,cincin polos
+274,anting
+275,cincin polos
+276,gelang tangan
+276,cincin permata
+277,gelang tangan
+277,cincin permata
+278,anting
+279,gelang tangan
+280,kalung
+280,cincin polos
+281,cincin polos
+281,cincin permata
+282,gelang tangan
+282,anting
+283,anting
+284,kalung
+284,anting
+284,liontin
+285,gelang tangan
+286,anting
+287,liontin
+288,kalung
+288,gelang tangan
+289,gelang tangan
+290,cincin permata
+291,anting
+292,anting
+293,cincin polos
+294,gelang tangan
+294,cincin polos
+295,gelang tangan
+295,cincin permata
+296,cincin permata
+297,anting
+297,gelang tangan
+298,cincin permata
+299,anting
+299,cincin permata
+300,cincin polos
+301,gelang tangan
+302,cincin permata
+303,anting
+303,cincin polos
+304,cincin permata
+305,gelang tangan
+305,kalung
+306,cincin polos
+306,anting
+307,gelang tangan
+308,anting
+309,anting
+310,cincin polos
+311,cincin permata
+311,gelang tangan
+312,kalung
+313,cincin polos
+314,cincin polos
+314,anting
+315,gelang tangan
+315,liontin
+315,cincin polos
